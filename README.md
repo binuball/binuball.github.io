@@ -1,2 +1,2 @@
-# binuball.github.io
+## binuball.github.io
 Blog Making in GitHub!
